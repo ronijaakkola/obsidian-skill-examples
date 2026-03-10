@@ -8,8 +8,8 @@ This is an accompanying repository for [a guide I released about creating skills
 
 | Skill | Description |
 |-------|-------------|
-| [obsidian-cli](skills/obsidian-cli) | Interact with Obsidian vaults via the [Obsidian CLI](https://help.obsidian.md/cli) |
-| [obsidian-create-effort](skills/obsidian-create-effort) | Create effort (= project) notes in a structured way |
-| [obsidian-prepare-writing](skills/obsidian-prepare-writing) | Evaluate notes and prepare them for writing and publication |
-| [obsidian-summarize-material](skills/obsidian-summarize-material) | Create a table of contents -style notes from materials like articles, videos, or podcasts |
-| [obsidian-weekly-review](skills/obsidian-weekly-review) | Run a structured weekly review |
+| [obsidian-cli](.claude/skills/obsidian-cli) | Interact with Obsidian vaults via the [Obsidian CLI](https://help.obsidian.md/cli) |
+| [obsidian-create-effort](.claude/skills/obsidian-create-effort) | Create effort (= project) notes in a structured way |
+| [obsidian-prepare-writing](.claude/skills/obsidian-prepare-writing) | Evaluate notes and prepare them for writing and publication |
+| [obsidian-summarize-material](.claude/skills/obsidian-summarize-material) | Create a table of contents -style notes from materials like articles, videos, or podcasts |
+| [obsidian-weekly-review](.claude/skills/obsidian-weekly-review) | Run a structured weekly review |
